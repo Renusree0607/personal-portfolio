@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">renusree </span>
             from <span className="purple"> vijayawada, India.</span>
             <br />
-            I am currently working  as a software developer at vijayawada.
+            I am currently studying at vit ap, vijayawada.
             <br />
-            I have completed cse in  vit ap.
+            I am doing my cse with aiml in  vit ap university.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -23,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Attending workshops
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> exploring
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
